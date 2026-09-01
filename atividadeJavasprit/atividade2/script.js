@@ -1,0 +1,1 @@
+alert("AIAIAI KRL ESCORREGA O PIX")
